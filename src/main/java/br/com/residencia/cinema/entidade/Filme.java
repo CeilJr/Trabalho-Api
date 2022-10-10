@@ -1,4 +1,4 @@
-package br.com.residencia.cinema.entity;
+package br.com.residencia.cinema.entidade;
 
 import java.time.Instant;
 
@@ -16,7 +16,7 @@ import javax.persistence.Table;
 public class Filme {
 	@Id
 	@GeneratedValue(strategy = GenerationType.IDENTITY)
-	@Column(name = "idfilme")
+	@Column(name = "Id_Filme")
 	private Integer idFilme;
 	
 	@Column(name = "nomebr")

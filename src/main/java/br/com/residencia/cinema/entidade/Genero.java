@@ -1,4 +1,4 @@
-package br.com.residencia.cinema.entity;
+package br.com.residencia.cinema.entidade;
 
 import java.util.Set;
 

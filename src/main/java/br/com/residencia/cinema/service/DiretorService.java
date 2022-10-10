@@ -5,7 +5,7 @@ import java.util.List;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import br.com.residencia.cinema.entity.Diretor;
+import br.com.residencia.cinema.entidade.Diretor;
 import br.com.residencia.cinema.repository.DiretorRepository;
 
 @Service

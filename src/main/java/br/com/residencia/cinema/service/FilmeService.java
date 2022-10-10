@@ -4,7 +4,7 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
-import br.com.residencia.cinema.entity.Filme;
+import br.com.residencia.cinema.entidade.Filme;
 import br.com.residencia.cinema.repository.FilmeRepository;
 
 @Service
